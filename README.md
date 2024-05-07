@@ -16,7 +16,6 @@
 ## Colaboraciones
 - Me encantaría colaborar en proyectos relacionados con Data Science, especialmente en el análisis exploratorio de datos, la limpieza de datos y la creación de dashboards en herramientas como Power BI, Tableau y LookerStudio. 🤝
 
-
 ## Contacto
 - ¡No dudes en contactarme si estás interesado en colaborar en algún proyecto o simplemente quieres charlar sobre tecnología y análisis de datos! 📫
 - [LinkedIn](https://www.linkedin.com/in/romanbrandariz/) 🌐
