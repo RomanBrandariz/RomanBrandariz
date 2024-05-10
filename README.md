@@ -19,5 +19,6 @@
 
 ## Contacto
 - ¡No dudes en contactarme si estás interesado en colaborar en algún proyecto o simplemente quieres charlar sobre tecnología y análisis de datos! 📫
+- mail branr0@hotmail.com 📧
 - [LinkedIn](https://www.linkedin.com/in/romanbrandariz/) 🌐
 - [GitHub](https://github.com/RomanBrandariz) 🐙
