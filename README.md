@@ -5,6 +5,7 @@
 - Realicé un bootcamp de Data Science en Henry. 🎓
 - Tengo experiencia en desarrollo utilizando Java, Ruby, Python y SQL, además de conocimientos en HTML y CSS. 💡
 
+- 
 ## Experiencia
 - Completé exitosamente el bootcamp de Data Science en Henry, donde adquirí habilidades en análisis de datos, machine learning y visualización de datos. 🚀
 - He trabajado en varios proyectos individuales durante mi bootcamp, aplicando técnicas de EDA (Análisis Exploratorio de Datos) y ETL (Extracción, Transformación y Carga) de datos. 🔍
