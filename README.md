@@ -1,4 +1,4 @@
-# ¡Hola! Soy Román Anibal Brandariz 👋-
+# ¡Hola! Soy Román Anibal Brandariz 👋
 
 
 ## Acerca de mí
